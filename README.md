@@ -1,5 +1,5 @@
 # Maze_Search
-@Copyright ShuHelicopter
+@Copyright ShuHelicopter  
 Maze Search Project with Java  
 
 This is a friendly warning for students who are currently taking CSCI455:      
