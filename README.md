@@ -6,7 +6,7 @@ This program will read a maze from a file, and initially display it to the graph
 Then, when the user hits any key, it will display the maze with a path through it shown in blue, or just the original maze if there is no possible path from the entrance to the exit. It will also give some indication of whether there was a path.  
 1)Maze Start  
 <img src="Maze Search/images/Maze Start.png" width="400">   
-2)Maze Search
+2)Maze Search  
 <img src="Maze Search/images/Maze Search.png" width="400">
 
 
